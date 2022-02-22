@@ -1,10 +1,7 @@
 # MVVM ,Dagger-Hilt ,Flow & LiveData,Navigation Component, Coroutines ,Room kütüphaneleri kullanıldı.
         
-![Screenshot_20220221_204406](https://user-images.githubusercontent.com/56538177/155131534-2c7b6d1a-e4b1-4059-ad2b-3872cbd497cd.png)
+![Screenshot_20220222_153248](https://user-images.githubusercontent.com/56538177/155133665-13dab9fb-4b76-4f1b-85b6-ffb88fda1328.png)
+![Screenshot_20220222_152803](https://user-images.githubusercontent.com/56538177/155133722-6e81756e-94fa-46e0-9c75-2d46f1c545b5.png)
+![Screenshot_20220222_152817](https://user-images.githubusercontent.com/56538177/155133756-9ed8957d-089a-451d-a0df-0e6b1e143bbd.png)
 
-![Screenshot_20220222_151609](https://user-images.githubusercontent.com/56538177/155131573-216fefc4-8168-4099-ba55-24322b1a100f.png)
-
-![Screenshot_20220222_151642](https://user-images.githubusercontent.com/56538177/155131596-da9b0c37-c75a-4665-83db-430207669d29.png)
-
-![Screenshot_20220222_151746](https://user-images.githubusercontent.com/56538177/155131657-32a8577d-dab9-40a1-89bd-a6a245e42b4e.png)
 
